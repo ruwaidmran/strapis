@@ -1,4 +1,4 @@
-    // strapi-api/config/database.js
+    strapi-api/config/database.js
     module.exports = ({ env }) => ({
       connection: {
         client: 'postgres',
@@ -18,6 +18,27 @@
     });
 
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // const path = require('path');
 
 // module.exports = ({ env }) => {
